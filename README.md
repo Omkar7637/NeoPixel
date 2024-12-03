@@ -1,5 +1,3 @@
-# NeoPixel
-
 # **Scrolling Display Using NeoPixel LED Matrix**  
 
 A project to create a scrolling LED display system using NeoPixel technology, controlled by an Atmega328P microcontroller. This system features customizable text displays, animations, and modular expansion capabilities, suitable for digital advertising, educational institutions, and public spaces.  
